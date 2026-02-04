@@ -1,0 +1,52 @@
+CSCI 3308 — Lab 3 (GUI Development)
+GenAI Usage Disclosure / Citation
+
+Name: Amrit Hari
+Date: 2026-02-03
+
+Tool / Model:
+- ChatGPT (GPT-5.2 Thinking)
+
+What I used GenAI for:
+I used ChatGPT to help me generate starter HTML/CSS (including Bootstrap components) for my multi-page personal website and to help troubleshoot GitHub Pages setup for extra credit.
+
+1) Home page (HTML + Bootstrap)
+Prompt (summary):
+"Help me create a Lab 3 personal website with a Bootstrap navbar + right-side icon, an image of myself, a short description, a resume link, and a footer with a social link."
+
+Response (what I used):
+- A Bootstrap-based home.html template with the navbar, icon button, layout for image + text, and footer.
+
+What I changed after:
+- I replaced placeholder content with my own image (me.jpg) and adjusted the relative paths to match my repo structure.
+
+2) Hobbies page (HTML + Bootstrap)
+Prompt (summary):
+"Write hobbies.html using Bootstrap with three hobbies (making movies, reading, writing) and images from my repo."
+
+Response (what I used):
+- A hobbies.html template using Bootstrap cards and image tags with correct relative paths.
+
+What I changed after:
+- I added my actual images (hobby1.jpg, hobby2.jpg, hobby3.jpg) and checked that they render correctly.
+
+3) Projects + Resume pages (HTML)
+Prompt (summary):
+"Make projects.html and resume.html consistent with the Bootstrap navbar/footer and format resume sections."
+
+Response (what I used):
+- Templates for projects.html and resume.html with consistent layout.
+
+What I changed after:
+- I edited the resume content to reflect my research focus.
+
+4) Extra credit: GitHub Pages
+Prompt (summary):
+"Help me publish the website using GitHub Pages and fix a 404."
+
+Response (what I used):
+- Steps to push via SSH, enable Pages from the main branch, and add a root index.html redirect.
+
+What I changed after:
+- I added personal_website_link.txt with my GitHub Pages URL.
+
